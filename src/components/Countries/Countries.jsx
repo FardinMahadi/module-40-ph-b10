@@ -22,6 +22,7 @@ const Countries = () => {
   const handleVisitedFlags = (flag) => {
     const newVisitedFlags = [...visitedFlags, flag];
     setVisitedFlags(newVisitedFlags);
+    j;
   };
 
   // remove item from an array in a state
