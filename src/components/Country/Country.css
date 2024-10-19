@@ -1,0 +1,16 @@
+.country {
+  border: 2px solid skyblue;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+.visited {
+  background-color: bisque;
+  color: black;
+  transition: 0.2s ease-in-out;
+}
+
+.non-visited {
+  transition: 0.2s ease-in-out;
+}
